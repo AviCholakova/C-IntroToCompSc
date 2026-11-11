@@ -3,7 +3,9 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" />
   <Project Path="P01-Arrays/P01-Arrays.vcxproj" />
   <Project Path="P02-Exc1/P02-Exc1.vcxproj" />
   <Project Path="P03-Exc2/P03-Exc2.vcxproj" />
+  <Project Path="P05-ExamTask/P05-ExamTask.vcxproj" />
 </Solution>
