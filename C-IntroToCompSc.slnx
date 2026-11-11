@@ -4,4 +4,6 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="P01-Arrays/P01-Arrays.vcxproj" />
+  <Project Path="P02-Exc1/P02-Exc1.vcxproj" />
+  <Project Path="P03-Exc2/P03-Exc2.vcxproj" />
 </Solution>
